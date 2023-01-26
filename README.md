@@ -1,2 +1,3 @@
-# cplace-st-customization
-Custom Styles and JS for cplace Solution Templates
+# cplace Solution Template Customization
+
+This repository contains custom CSS and JS for all cplace Solution Templates (ST)
