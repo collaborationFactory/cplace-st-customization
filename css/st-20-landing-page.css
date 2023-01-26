@@ -1,0 +1,50 @@
+div#cplace-main.cf-cplace-landing-page-main-element {
+    background: #282F48;
+}
+
+.cf-cplace-landing-page-title {
+    color: white;
+}
+
+.cf-cplace-landing-page-wrapper .page-header {
+    padding: 60px 0 30px 60px;
+}
+.cf-cplace-landing-page-wrapper .tab-pane {
+    padding-left: 30px;
+}
+.cf-cplace-landing-page-wrapper .page-header h1 {
+  color: white !important;
+  font-size: 3em;
+  font-weight: normal;
+  margin-left: 0;
+}
+
+.cf-cplace-landing-page-wrapper .nav-tabs {
+  display: none;/* hide if only one tab */
+  padding-left: 30px;
+  border-bottom: none;
+}
+.cf-cplace-landing-page-wrapper .nav-tabs li.active a {
+  color: white;
+  background: var(--color-blue) !important;
+  border-radius: 4px;
+  border-bottom: none !important;
+}
+
+
+.cf-cplace-landing-page-wrapper .nav-tabs li a:hover {
+  color: white !important;
+  border-bottom: none !important;
+}
+
+.cf-cplace-landing-page-wrapper .tab-pane .col-md-4 {
+  width: 25%;
+}
+
+.cf-cplace-landing-page-wrapper .material-card .img-container {
+  border: 0px solid transparent !important;
+}
+
+.cf-cplace-landing-page-wrapper .material-card.mc-active .mc-tiles-wrapper {
+  height: calc(108px + 100% - 47px) !important;
+}

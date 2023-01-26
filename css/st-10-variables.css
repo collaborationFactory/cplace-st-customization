@@ -1,0 +1,21 @@
+:root {
+  --color-darkgray: #161922;
+  --color-gray: #242f3a;
+  --color-blue: #006ae5;
+  --color-darkred: #9E0000;
+  --color-red: #F30000;
+  --color-yellow: #FFC700;
+  --color-green: #5AB500;
+
+  --color-state_10_draft: #5d3636;
+  --color-state_15_funnel: #f7e38c;
+  --color-state_25_reviewing: #eec927;
+  --color-state_35_analyzing: #9dca2e;
+  --color-state_45_backlog: #3f9cdb;
+  --color-state_55_implementing: #a2dcf5;
+  --color-state_65_done: #aedb3d;
+  --color-state_75_archived: #afafaf;
+
+  --color-epictype-enabler: #ffc80c;
+  --color-epictype-epic: #0aa5ff;
+}

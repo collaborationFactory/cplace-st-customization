@@ -1,0 +1,40 @@
+.cf-cplace-landing-page-wrapper .nav-tabs {
+  /*display: none; /* if only one tab */
+  padding-left: 30px;
+  border-bottom: none;
+}
+
+cf-cplace-layout-tabs-widget .nav-tabs,
+cf-cplace-layout-tabs-widget .nav-tabs li {
+  border-bottom: none !important;
+}
+
+.cf-cplace-landing-page-wrapper .nav-tabs li.active a {
+  color: white;
+  background: var(--color-blue) !important;
+  border-radius: 4px;
+  border-bottom: none !important;
+}
+
+.cf-cplace-landing-page-wrapper .nav-tabs li a {
+  color: white !important;
+  border-bottom: none !important;
+}
+
+.cf-cplace-landing-page-wrapper .nav-tabs li a:hover {
+  color: white !important;
+  border-bottom: none !important;
+}
+
+
+cf-cplace-layout-tabs-widget .nav-tabs li.active button {
+  background: var(--color-blue) !important;
+  border-radius: 4px;
+  border-bottom: none !important;
+  color: white !important;
+}
+
+cf-cplace-layout-tabs-widget .nav-tabs li button {
+  border-bottom: none !important;
+  color: var(--color-darkgray) !important;
+}

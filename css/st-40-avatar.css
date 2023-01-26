@@ -1,0 +1,21 @@
+img.custom-profile-image {
+  border-radius: 50%;
+  width: 40px;
+  border: 1px solid rgba(0, 57, 99, 20%);
+  margin-right: -20px;
+  position: relative;
+  height: 30px;
+}
+
+table img.custom-profile-image {
+  width: 22px;
+  height: 22px;
+}
+
+.tricia-entity-kind-person.custom-user-reference {
+  text-decoration: none;
+}
+
+.tricia-entity-kind-person i.fa.fa-user {
+  visibility: hidden;
+}
